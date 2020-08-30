@@ -9,7 +9,7 @@
 - ⚡ Fun fact: 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-novatorem.aatmjeet.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/rr1s91l488kfuirhas0fanaxr)
+[<img src="https://novatorem.aatmjeet.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/rr1s91l488kfuirhas0fanaxr)
 
 ### Connect with me:
 
