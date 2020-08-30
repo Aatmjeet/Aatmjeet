@@ -2,7 +2,7 @@
 
 ## I'm an Engineer, Developer, Video Editor, Artwork Designer and Gamer!
 
-- 🔭 I’m currently working on a Steam-Trading Website [website]!
+- 🔭 I’m currently working on a Steam-Trading [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with an Open Source Developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
