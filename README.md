@@ -1,12 +1,12 @@
 ﻿### Hi there, I'm Aatmjeet Singh 👋
 
-## I'm a Engineer, Developer and Gamer!
+## I'm a Engineer, Developer, Video Editor, Artwork Designer and Gamer!
 
 - 🔭 I’m currently working on a Steam-Trading Website [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with an Open Source Developer
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I used to make some fragmovies on YouTube.
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.aatmjeet.vercel.app/api/spotify" alt="Aatmjeet Spotify Playing" width="350" />](https://open.spotify.com/user/rr1s91l488kfuirhas0fanaxr)
@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
