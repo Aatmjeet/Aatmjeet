@@ -1,6 +1,6 @@
 ﻿### Hi there, I'm Aatmjeet Singh 👋
 
-## I'm a Engineer, Developer, Video Editor, Artwork Designer and Gamer!
+## I'm an Engineer, Developer, Video Editor, Artwork Designer and Gamer!
 
 - 🔭 I’m currently working on a Steam-Trading Website [website]!
 - 🌱 I’m currently learning everything 🤣
