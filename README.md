@@ -14,8 +14,10 @@
 ### Connect with me:
 
 [<img align="left" alt="casexchange" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aatmjeet  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Aatmjeet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aatmjeet | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Aatmjeet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -41,7 +43,8 @@
   <img align="left" alt="Aatmjeet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aatmjeet&show_icons=true&hide_border=true" />
 
 </details>
-
+[instagram]: https://www.instagram.com/_aatmjeet/
+[gmail]: aatmjeetsingh18@gmail.com
 [website]: https://www.thecasexchange.xyz
 [youtube]: https://youtube.com/channel/UC731rVdynjhOrva2rYdV5uw
 [linkedin]: https://linkedin.com/in/aatmjeet-singh
