@@ -43,6 +43,7 @@
   <img align="left" alt="Aatmjeet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aatmjeet&show_icons=true&hide_border=true" />
 
 </details>
+
 [instagram]: https://www.instagram.com/_aatmjeet/
 [gmail]: aatmjeetsingh18@gmail.com
 [website]: https://www.thecasexchange.xyz
