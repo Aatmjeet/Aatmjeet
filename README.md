@@ -18,6 +18,7 @@
 [<img align="left" alt="Aatmjeet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aatmjeet | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />](mailto:aatmjeetsingh18@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [<img align="left" alt="Aatmjeet | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/steam.svg" />][steam]
+[<img align="left" alt="Aatmjeet | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord]
 [<img align="left" alt="Aatmjeet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/instagram.svg" />][instagram]
 
 <br />
@@ -50,3 +51,4 @@
 [youtube]: https://youtube.com/channel/UC731rVdynjhOrva2rYdV5uw
 [linkedin]: https://linkedin.com/in/aatmjeet-singh
 [steam]: https://steamcommunity.com/id/satant180799
+[discord]: https://discord.gg/sdzhHE
