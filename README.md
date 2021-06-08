@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<[<img align="left" alt="casexchange" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]>
+---[<img align="left" alt="casexchange" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aatmjeet  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Aatmjeet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aatmjeet | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />](mailto:aatmjeetsingh18@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
