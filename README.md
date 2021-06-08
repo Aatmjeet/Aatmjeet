@@ -13,12 +13,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="casexchange" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+<!-- [<img align="left" alt="casexchange" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Aatmjeet  | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Aatmjeet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aatmjeet | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />](mailto:aatmjeetsingh18@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [<img align="left" alt="Aatmjeet | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/steam.svg" />][steam]
-[<img align="left" alt="Aatmjeet | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord]
+<!-- [<img align="left" alt="Aatmjeet | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/discord.svg" />][discord] -->
 [<img align="left" alt="Aatmjeet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/instagram.svg" />][instagram]
 
 <br />
