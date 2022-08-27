@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my research on Low Power Wide Area Networks
 - 🌱 I’m currently learning Computer Networks
 - 👯 I’m looking to collaborate with an Open Source Developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I used to make some fragmovies on YouTube.
 
 ### Spotify Playing 🎧
